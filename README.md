@@ -1,3 +1,4 @@
 # STM32-Blue-Pill-Game-Console
 An STM32 based game console made on a prototype board
-![Uploading image.png…]()
+<img width="3000" height="4000" alt="image" src="https://github.com/user-attachments/assets/62050b27-c2ea-4213-ab0e-983be5467604" />
+
